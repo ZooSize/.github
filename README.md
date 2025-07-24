@@ -3,7 +3,7 @@
 ## The ZooSize project
 
 The ZooSize project was initiated in 2021 through GLEON. The project aims at understanding how zooplankton size varies within taxa and assemblages across lakes, in response to temperature, nutrient and fish predation.
-To answer this question we set out to assemble a dataset of crustacean zooplankton individual sizes across the globe. We prepared a data template and advertise the call through GLEON and beyond. As a result, over 50 teams of data providers submitted data for 370+ lakes.
+To answer this question we set out to assemble a dataset of crustacean zooplankton individual sizes across the globe. We prepared a data template and advertise the call through GLEON and beyond. As a result, over 50 teams of data providers submitted data for 360+ lakes (view their location [here](https://rosalieb.github.io/rosaliebruelweb/ZooSize/ZooSize_map.html)).
 
 ### Project participants
 
